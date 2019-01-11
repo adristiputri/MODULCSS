@@ -1,1 +1,9 @@
 # MODULCSS
+![alt text](https://github.com/adristiputri/MODULCSS/blob/master/csstext.png)
+![alt text](https://github.com/adristiputri/MODULCSS/blob/master/bordercss.png)
+![alt text](https://github.com/adristiputri/MODULCSS/blob/master/navbar.png)
+![alt text](https://github.com/adristiputri/MODULCSS/blob/master/presiden.png)
+![alt text](https://github.com/adristiputri/MODULCSS/blob/master/stylecss.png)
+![alt text](https://github.com/adristiputri/MODULCSS/blob/master/stylecss2.png)
+![alt text](https://github.com/adristiputri/MODULCSS/blob/master/stylecss3.png)
+![alt text](https://github.com/adristiputri/MODULCSS/blob/master/textinmultiplecolumn.png)
